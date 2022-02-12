@@ -1,4 +1,4 @@
-package main.java;
+package ru.stqa.ptf.sandbox;
 
 public class FirstApplication {
 
