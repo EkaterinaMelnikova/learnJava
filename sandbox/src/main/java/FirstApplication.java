@@ -1,4 +1,7 @@
-public class first {
+package main.java;
+
+public class FirstApplication {
+
 
 public static void main(String[] args) {
 
